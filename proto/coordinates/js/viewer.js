@@ -2,6 +2,7 @@
     viewer.js
     Logic for the OpenSeadragon viewer
     By Nicholas Verrochi
+    By Sairam Bandarupalli
     For CS410 - The Axolotl Project
 */
 
